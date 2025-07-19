@@ -1,16 +1,14 @@
-## Hi there 👋
+✨ Hi, I’m Ghadeer!  
 
-<!--
-**Ghadeer-mohhammed/ghadeer-mohhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻  passion for QA, Data Analysis , and UI\UX Desinge.  
 
-Here are some ideas to get you started:
+🎯 Currently working in technical support and exploring the world of software testing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 CS Grad from Taibah University, and always curious to learn more.  
+ 
+
+🌱#LearningInPublic — exploring data analysis, Desining, and tech curiosity!  
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Ghadeer GitHub stats](https://github-readme-stats.vercel.app/api?username=ghadeer-mohhammed&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghadeer-mohhammed&layout=compact&theme=tokyonight)]
+
